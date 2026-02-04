@@ -1,0 +1,5 @@
+{
+  "name": "MUDIDI Poster Style Architect",
+  "description": "An AI-powered design tool that analyzes visual styles from reference images and generates matching prompts and new illustrations using Gemini 2.5.",
+  "requestFramePermissions": []
+}
